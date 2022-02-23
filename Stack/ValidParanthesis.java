@@ -20,6 +20,13 @@ Example 3:
     Input: s = "(]"
     Output: false
 
+
+Time Complexity : 
+    O(n)
+
+Space Complexity :
+    O(n)
+
 */
 
 package Stack;
